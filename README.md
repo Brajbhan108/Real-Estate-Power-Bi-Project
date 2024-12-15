@@ -1,6 +1,6 @@
 # Real-Estate-Power-Bi-Project
 ### Data Sourse - https://catalog.data.gov/dataset/real-estate-sales-2001-2018.
-### Dashvoard - https://github.com/Brajbhan108/Real-Estate-Power-Bi-Project/blob/main/Real_Estate_Sales%20project.pdf
+### Dashboard - https://github.com/Brajbhan108/Real-Estate-Power-Bi-Project/blob/main/Real_Estate_Sales%20project.pdf
 
 ### Process
 - Data Mining and Data Modling using Power quary
