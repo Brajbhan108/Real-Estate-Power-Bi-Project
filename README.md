@@ -5,7 +5,7 @@
 ### Process
 - Data Mining and Data Modling using Power quary
 - Change Data Type as per data
-- Create Dax function for Time scrise anlyss
+- Create Dax function for Time-Series anlysis
 - Create Dashbord and Chart
 
 ### Project Objective
